@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ragern
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
